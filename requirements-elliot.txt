@@ -1,0 +1,11 @@
+# Install Elliot separately in its own conda env or after recbole:
+# pip install git+https://github.com/sisinflab/elliot.git
+# or:
+# pip install elliot-framework
+numpy
+pandas
+scipy
+pyyaml
+tqdm
+torch>=1.11.0
+requests

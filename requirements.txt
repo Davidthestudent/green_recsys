@@ -1,0 +1,10 @@
+recbole>=1.2.0
+torch>=1.11.0
+numpy
+pandas
+scipy
+pyyaml
+matplotlib
+tabulate
+requests
+tqdm
